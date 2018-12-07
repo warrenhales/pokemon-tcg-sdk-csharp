@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Config.cs" />
+    <Compile Include="Energy.cs" />
     <Compile Include="Helpers\QueryBuilderHelper.cs" />
     <Compile Include="Mappers\HttpResponseToPagingInfo.cs" />
     <Compile Include="Models\Ability.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="Models\BaseCard.cs" />
     <Compile Include="Card.cs" />
     <Compile Include="Annotations\EntityHeadersAttribute.cs" />
+    <Compile Include="Models\EnergyCard.cs" />
     <Compile Include="Models\PagingInfo.cs" />
     <Compile Include="Models\PokemonCard.cs" />
     <Compile Include="Models\SetData.cs" />
